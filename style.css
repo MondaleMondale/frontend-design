@@ -22,3 +22,7 @@
 .full {
     grid-column: full;
 }
+
+.feature {
+    grid-column: feature;
+}
